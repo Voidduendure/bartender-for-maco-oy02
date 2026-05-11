@@ -1,4 +1,4 @@
-
+Get the ultimate Bartender for macOS automation with vip Automation for Bartender for macOS - hotkey-customization and startup-manager. Featuring hotkey-customization and
 
 
 
